@@ -1,11 +1,11 @@
 # odin-recipes
 This project is created to practice my basic knowledge of HTML. It consists of an index page with links to tother pages that contain different recipes.
 ## Skills Practiced
--HTML boilerplate
--Elements and tags
--Links and images
--Lists
--Writing commit messages
+- HTML boilerplate
+- Elements and tags
+- Links and images
+- Lists
+- Writing commit messages
 ## Image Credits
 
 - "Sesame Chicken" photo by asiansupper: https://www.flickr.com/photos/asiansupper/5445860002
